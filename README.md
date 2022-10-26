@@ -1,3 +1,3 @@
 ## DEPLOYED:
 
-https://styled-clarusway.netlify.app/
+https://mm-react-styled.netlify.app/
